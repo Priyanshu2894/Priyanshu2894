@@ -159,42 +159,23 @@
 
 ---
 
-## 🧠 My Learning Roadmap
 
-```text
-                 SOFTWARE + AI ENGINEERING
-                           │
-             ┌─────────────┴─────────────┐
-             ▼                           ▼
-      BACKEND DEVELOPMENT           AI ENGINEERING
-             │                           │
-        Python / JS                 AI / ML Basics
-             │                           │
-        APIs & SQL                  Deep Learning
-             │                           │
-        Databases                        NLP
-             │                           │
-        WebSockets                  Transformers
-             │                           │
-        System Design                    LLMs
-             │                           │
-             │                       RAG Systems
-             │                           │
-             └─────────────┬─────────────┘
-                           ▼
-                    AI-POWERED APPS
-                           │
-                           ▼
-                      AI AGENTS
-```
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu2894&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu2894&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Priyanshu2894&show_icons=true&theme=tokyonight"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Priyanshu2894&layout=compact&theme=tokyonight"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -202,18 +183,16 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu2894&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Contribution Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu2894&theme=react-dark&bg_color=0D1117&hide_border=true"
+    alt="Priyanshu's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Priy anshu2894/Priy anshu2894/output/snake-custom.svg" alt="Contribution Snake" />
-</div>
-
----
 
 ## 🎯 My Goals
 
